@@ -1,3 +1,6 @@
+# THIS IS AN OLD REPOSITORY. VIEW THE NEW ONE [HERE](https://github.com/tauqua/gog-galaxy-itch.io)
+
+
 # gog-galaxy-itch.io
 
 An integration for itch.io
